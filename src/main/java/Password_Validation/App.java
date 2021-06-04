@@ -1,6 +1,6 @@
 package Password_Validation;
 import java.util.Scanner;
-/*
+/**
  *  UCF COP3330 Summer 2021 Assignment 15 Solution
  *  Copyright 2021 Ryan Persad
  */
